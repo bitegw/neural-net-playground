@@ -2,7 +2,6 @@
 
 Igrannonica je ASP.NET Core veb aplikacija za manipulaciju veštačkim neuronskim mrežama. Koristeći aplikaciju, početnicima iz oblasti veštačkih neuronskih mreža se omogućava razumevanje samog koncepta preprocesiranja, treniranja i testiranja neuronskih mreža. S druge strane, ekspertima se pruža manipulacija setovima podataka uz upotrebu brojnih parametara i mogućnost istovremenog nadgledanja toka procesa.  
 
-
 ## Opis projekta
 
 **Izvršavanje eksperimenata**
@@ -11,7 +10,7 @@ Igrannonica je ASP.NET Core veb aplikacija za manipulaciju veštačkim neuronski
 **Izbor seta podataka**
  U navedenom koraku vrši se izbor seta podataka iz postojećih setova ili po potrebi korisnik može učitati željeni set podataka.
 
-**Pikaz izabranog seta podataka**
+**Prikaz izabranog seta podataka**
  Nakon izvršenog izbora seta podataka, korisniku se tabelarno prikazuju učitani podaci.
 
 **Preprocesiranje**
