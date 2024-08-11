@@ -1,5 +1,7 @@
 # NeuroStellar - Igrannonica
 
+![Demo](https://www.youtube.com/watch?v=heXn0A4PYLg)
+
 Igrannonica je ASP.NET Core veb aplikacija za manipulaciju veštačkim neuronskim mrežama. Koristeći aplikaciju, početnicima iz oblasti veštačkih neuronskih mreža se omogućava razumevanje samog koncepta preprocesiranja, treniranja i testiranja neuronskih mreža. S druge strane, ekspertima se pruža manipulacija setovima podataka uz upotrebu brojnih parametara i mogućnost istovremenog nadgledanja toka procesa.  
 
 ## Opis projekta
